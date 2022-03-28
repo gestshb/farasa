@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DiacritizerSources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/qcri/farasa/diacritize/DiacritizerSources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

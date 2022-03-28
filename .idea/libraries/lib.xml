@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mallet-deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/CRFPP.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/trove-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/weka.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mallet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
